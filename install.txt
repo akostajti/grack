@@ -1,4 +1,4 @@
-Installation
+Instalation
 ========================
 
 ** This documentation is not finished yet. I haven't tested all of 
